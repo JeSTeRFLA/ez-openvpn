@@ -32,5 +32,5 @@ cd ez-openvpn
 ```
 follow on screen directions
 
-To ADD or Revoke a client or to remove the openvpn
+To ADD or Revoke a client or to remove the openvpn</p>
 run ./openvpn.sh and select from options
